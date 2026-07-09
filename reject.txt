@@ -4,4 +4,5 @@ tnc16-normal-useast5.tiktokv.us
 cdn-settings.appsflyersdk.com
 log16-normal-useast8.tiktokv.us
 secretlygoatsarrangement.com
+telemetry.insights.video.a2z.com
 
