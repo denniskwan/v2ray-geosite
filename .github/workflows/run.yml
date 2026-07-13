@@ -37,10 +37,10 @@ jobs:
         with:
           ref: hidden
 
-      - name: Checkout denniskwan\/custom-list
+      - name: Checkout denniskwan/custom-list
         uses: actions/checkout@v7
         with:
-          repository: denniskwan\/custom-list
+          repository: denniskwan/custom-list
 
           path: custom
 
