@@ -99,7 +99,7 @@ jobs:
 
       - name: Add proxy, direct and reject domains from "hidden" branch to appropriate temp files
         run: |
-          cat proxy.txt > temp-proxy.txt
+          cat proxy.txt >> temp-proxy.txt
           cat direct.txt >> temp-direct.txt
           cat reject.txt > temp-reject.txt
 
@@ -168,7 +168,7 @@ jobs:
       - name: Build geosite.dat file
         run: |
           cd custom || exit 1
-          go run ./ --datapath=../community/data
+          go run ./ --datapath=../community/data --exportlists=geolocation-!cn apple steam
 
       - name: Move and zip files and generate sha256 hash
         run: |
@@ -204,9 +204,9 @@ jobs:
           git remote add origin "https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}"
           git push -f -u origin release
 
-      - name: Purge jsdelivr CDN
-        run: |
-          cd publish || exit 1
-          for file in $(ls); do
-            curl -i "https://purge.jsdelivr.net/gh/${{ github.repository }}@release/${file}"
-          done
+      #- name: Purge jsdelivr CDN
+       # run: |
+        #  cd publish || exit 1
+         # for file in $(ls); do
+          #  curl -i "https://purge.jsdelivr.net/gh/${{ github.repository }}@release/${file}"
+          #done
