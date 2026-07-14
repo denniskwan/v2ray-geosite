@@ -17,7 +17,6 @@ full:dl.begellhouse.com
 full:f3b7q2p3.ssl.hwcdn.net
 full:faronics.kayako.com
 full:firstsearch.oclc.org
-full:github-api.arkoselabs.com
 full:gitlab-assets.oss-cn-hongkong.aliyuncs.com
 full:hpstore.corpmerchandise.com
 full:hub.slarker.me
@@ -66,6 +65,7 @@ full:widgets.stripst.com
 full:wrds-www.wharton.upenn.edu
 full:ws.audioscrobbler.com
 javdbd.com
+arkoselabs.com
 evergage.com
 ae
 at
@@ -1200,7 +1200,6 @@ alienware.biz
 alienware.ca
 alienware.com
 alienware.ie
-.co.kr
 alienware.net
 alienware.ph
 alienware.ps
@@ -1647,7 +1646,6 @@ apple.hamburg
 apple.ie
 apple.in
 apple.jo
-.co.kr
 apple.lk
 apple.me
 apple.my
@@ -1677,7 +1675,6 @@ applecare.cc
 applecare.hamburg
 applecare.wang
 applecensorship.com
-.kr
 applecentar.co.rs
 applecentar.rs
 applecentre.info
@@ -1685,7 +1682,6 @@ appleclassicipod.com
 applecom.com
 applecomputer-imac.com
 applecomputer.com
-.co.kr
 applecomputerimac.com
 applecomputerinc.info
 applecoronavirus.com
@@ -1715,7 +1711,7 @@ appleipodsettlement.com
 appleiservices.com
 applelink.com
 applemagickeyboard.com
-.kr
+r
 applemasters.info
 applemusic.berlin
 applemusic.co
@@ -1775,7 +1771,6 @@ applestore.com.bn
 applestore.com.ee
 applestore.com.jo
 applestore.com.sn
-.co.kr
 applestore.me
 applestore.net
 applestore.ph
@@ -1805,7 +1800,7 @@ applicationinsights.io
 applicationinsights.net
 applle.com
 applw.com
-.kr
+r
 appmediagroup.com
 approvedusedbmw.com
 apps.evozi.com
@@ -3253,7 +3248,6 @@ blogspot.com.ng
 blogspot.cv
 blogspot.ie
 blogspot.in
-.co.kr
 blogspot.md
 blogspot.mk
 blogspot.mx
@@ -3283,7 +3277,7 @@ bloombergchina.com
 bloombergenvironment.com
 bloombergforeducation.com
 bloomberggovernment.com
-.kr
+r
 bloombergindices.com
 bloombergindustry.com
 bloomberglabs.com
@@ -3355,7 +3349,6 @@ bmw-connecteddrive.com.kw
 bmw-connecteddrive.com.mt
 bmw-connecteddrive.ee
 bmw-connecteddrive.ie
-.co.kr
 bmw-connecteddrive.mx
 bmw-connecteddrive.my
 bmw-connecteddrive.sg
@@ -3385,7 +3378,7 @@ bmw-mdrivetour.com
 bmw-me.com
 bmw-military-sales.com
 bmw-motorcycle.com
-.kr
+r
 bmw-motorrad-abudhabi.com
 bmw-motorrad-authorities.com
 bmw-motorrad-dubai.com
@@ -7333,7 +7326,6 @@ flexpool.io
 flexsig.com
 flgjustice.org
 fli8.xyz
-.co.kr
 flickr
 flickr.com
 flickr.net
@@ -7363,7 +7355,7 @@ fluidfxapp.com
 fluidpreview.com
 flutter.dev
 flutterapp.com
-.kr
+r
 flyflv.com
 flyingjizz.com
 flypool.org
@@ -9620,7 +9612,6 @@ hudson.org
 huffingtonpost.ca
 huffingtonpost.com
 huffingtonpost.in
-.co.kr
 huffpost.com
 huffpostarabi.com
 huffpostbrasil.com
@@ -9650,7 +9641,7 @@ huluhuluhuluhulu10.work
 huluim.com
 huluinstantmessenger.com
 huluitaly.com
-.kr
+r
 hulunet.com
 hulunetwork.com
 huluplus.com
@@ -9945,7 +9936,6 @@ ikea.eg
 ikea.ie
 ikea.in
 ikea.jo
-.co.kr
 ikea.ma
 ikea.mx
 ikea.my
@@ -9975,7 +9965,7 @@ illusionn2.com
 illusionn3.com
 illusionn4.com
 illusionn5.com
-.kr
+r
 illusionxz.com
 illusiony.com
 illusionze.com
@@ -11385,7 +11375,6 @@ leaguehighschool.com
 leagueoflegends.ca
 leagueoflegends.com
 leagueoflegends.info
-.co.kr
 leagueoflegends.net
 leagueoflegends.org
 leagueoflegendsscripts.com
@@ -11415,7 +11404,7 @@ lemoncams.com
 lencr.org
 lenkino.xxx
 lenporno.net
-.kr
+r
 lenporno.red
 lenwhite.com
 leonardo.ai
@@ -11774,7 +11763,6 @@ macappsto.re
 macbook.co
 macbook.wang
 macbookair.com
-.co.kr
 macbookair.net
 macbookpro.co
 macbookpro.com
@@ -11804,7 +11792,7 @@ macromedia.com
 macruby.com
 macruby.net
 macruby.org
-.kr
+r
 macrumors.com
 madamlive.tv
 madchensex.com
@@ -12403,7 +12391,6 @@ minecraftservices.com
 minecraftshop.com
 mingdemedia.org
 minghui-school.org
-.co.kr
 minghui.org
 mingjinglishi.com
 mingjingnews.com
@@ -12433,7 +12420,7 @@ mini-connected.ee
 mini-connected.ie
 mini-corporate-sales.com
 mini-coupe.ca
-.kr
+r
 mini-dubai.com
 mini-e.com
 mini-egypt.com
@@ -13446,7 +13433,6 @@ newpipe.net
 newpppp.com
 news.net.au
 news.seehua.com
-.co.kr
 news18.com
 newsamerica.com
 newsancai.com
@@ -13476,7 +13462,7 @@ newthuhole.com
 newtofea.com
 newton.com
 newxxx24.cc
-.kr
+r
 newyorker.com
 nexcat.com
 nexitally.com
@@ -13824,7 +13810,6 @@ ntdimg.com
 ntdtv-dc.com
 ntdtv.ca
 ntdtv.com
-.co.kr
 ntdtv.org
 ntdtvla.com
 ntdvn.com
@@ -13854,7 +13839,7 @@ nudefiles.net
 nudegfporn.com
 nudekenya.com
 nudelive.com
-.kr
+r
 nudematurewomenpics.com
 nudemilfporn.com
 nudes7.com
@@ -14783,7 +14768,6 @@ pinterest.id
 pinterest.ie
 pinterest.in
 pinterest.info
-.co.kr
 pinterest.mx
 pinterest.net
 pinterest.nz
@@ -14813,7 +14797,7 @@ pixiv.net
 pixiv.org
 pixivision.net
 pixivsketch.net
-.kr
+r
 pixlr-o-matic.com
 pixlromatic.com
 pixnet.cc
@@ -15318,7 +15302,6 @@ postgresql.org
 postimages.org
 postimg.cc
 postini.com
-.co.kr
 postyourgirls.ws
 potato.im
 potatso.com
@@ -15348,7 +15331,7 @@ powersunitedvr.com
 pp-soc.com
 pp6.info
 ppaypal.com
-.kr
+r
 ppe.lawyer
 pplah.com
 pplusstatic.com
@@ -16021,11 +16004,10 @@ ro89.com
 road-crew.com
 roadblocks.com
 roblocks.com
-roblox-api.arkoselabs.com
 roblox.ca
 roblox.cc
 roblox.com
-.co.kr
+co.kr
 roblox.mx
 roblox.net
 roblox.org
@@ -17178,7 +17160,6 @@ souka.xyz
 soulcaliburhentai.net
 soundcloud.cloud
 soundcloud.com
-.co.kr
 soundofhope.org
 soundon.fm
 soup.io
@@ -17208,7 +17189,7 @@ spaindisney.com
 spankandbang.com
 spankbang.com
 spankbang.party
-.kr
+r
 spankbang1.com
 spanking.wiki
 spankingstudio.com
@@ -17223,7 +17204,6 @@ spatial.io
 spb.com
 spcc-sp.com
 speakerdeck.com
-.co.kr
 specialtyheadphones.com
 spectraltube.com
 speedcat.me
@@ -17253,7 +17233,7 @@ spiritofecstasy.com
 spizoo.com
 splatoon2tournament.com
 splunk.com
-.kr
+r
 spo-msedge.net
 spore.com
 sports.williamhill.com
@@ -17862,7 +17842,6 @@ teenwebcamtube.com
 teeztube.com
 tegrazone.co
 tegrazone.com
-.co.kr
 tehnodom.com
 tehrantimes.com
 teinon.net
@@ -17892,7 +17871,7 @@ temp-mail.org
 temu.com
 tenbin.ai
 tenbyfotolia.com
-.kr
+r
 tenor.com
 tensorflow.org
 tenzinpalmo.com
@@ -19081,7 +19060,6 @@ vfsco.com
 vfsco.ee
 vfsco.ie
 vfsco.in
-.co.kr
 vfsco.mx
 vfsco.pe
 vfsforgit.com
@@ -19111,7 +19089,7 @@ video.aol.com
 video.fc2.com
 video01.org
 videobam.com
-.kr
+r
 videobreakdown.com
 videochampion.com
 videodelivery.net
@@ -19407,7 +19385,6 @@ volvobuses.com
 volvobuses.com.kw
 volvobuses.in
 volvobuses.jo
-.co.kr
 volvobuses.ma
 volvobuses.mx
 volvobuses.my
@@ -19419,13 +19396,11 @@ volvobuses.tn
 volvoce.com
 volvodefense.com
 volvogroup.com
-.co.kr
 volvogroup.mx
 volvogroup.pe
 volvomerchandise.com
 volvopenta.com
 volvospares.com
-.co.kr
 volvotruckcenter.kz
 volvotrucks.al
 volvotrucks.am
@@ -19439,7 +19414,7 @@ volvotrucks.co.na
 volvotrucks.co.zm
 .kr
 volvotrucks.co.zw
-volvotrucks.com
+lvotrucks.com
 volvotrucks.com.bn
 volvotrucks.com.kw
 volvotrucks.ee
@@ -19447,16 +19422,15 @@ volvotrucks.ge
 volvotrucks.id
 volvotrucks.in
 volvotrucks.kg
-.co.kr
 volvotrucks.kz
 volvotrucks.ma
 .kr
-volvotrucks.md
+lvotrucks.md
 volvotrucks.mk
 volvotrucks.mn
 volvotrucks.my
 volvotrucks.net
-volvotrucks.pe
+lvotrucks.pe
 .kr
 volvotrucks.ph
 volvotrucks.pk
@@ -19477,7 +19451,7 @@ vox.com
 voxcreative.com
 voxer.com
 voxfieldguide.com
-voxmedia.com
+xmedia.com
 voxops.net
 .kr
 voyeureye.com
@@ -21011,7 +20985,6 @@ youtube.ie
 youtube.in
 youtube.iq
 youtube.jo
-.co.kr
 youtube.kz
 youtube.la
 youtube.lk
@@ -21041,7 +21014,7 @@ youtube.tn
 youtube.tv
 youtube.ua
 youtube.ug
-.kr
+r
 youtube.uy
 youtubecisco.com
 youtubeeducation.com
@@ -21189,7 +21162,6 @@ zhuzhushipin-app.com
 zi.media
 zibacity.com
 ziglang.org
-.co.kr
 zillionk.com
 zind.cloud
 zingtruyen.net
@@ -21219,7 +21191,7 @@ zoo-porno.biz
 zoo-tube8.com
 zoo-xnxx.com
 zoofiction.com
-.kr
+r
 zoofilianet.com
 zoogvpn.com
 zoohun.com
