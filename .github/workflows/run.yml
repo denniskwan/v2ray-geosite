@@ -172,7 +172,7 @@ jobs:
         run: |
           cd custom || exit 1
           mkdir -p ../community/data_pure
-          cp ../community/data/geolocation-\!cn ../community/data/category-ads-all ../community/data/steam ../community/data_pure
+          cp ../community/data/geolocation-\!cn ../community/data/category-ads-all ../community/data/steam ../community/data/apple ../community/data_pure
           go run ./ --datapath=../community/data_pure 
 
       - name: Move and zip files and generate sha256 hash
