@@ -172,7 +172,8 @@ jobs:
         run: |
           cd community/data|| exit 1
           mkdir -p ../data_pure
-          cp geolocation-\!cn category-ads-all steam apple-pki apple-tvplus apple-update beats icloud itunes apple ../data_pure/
+          #cp geolocation-\!cn category-ads-all steam apple-pki apple-tvplus apple-update beats icloud itunes apple ../data_pure/
+          cp geolocation-\!cn category-ads-all steam ../data_pure/
           cd ../../custom|| exit 1
           go run ./ --datapath=../community/data_pure  
 
