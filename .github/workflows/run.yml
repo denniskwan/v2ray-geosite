@@ -170,12 +170,15 @@ jobs:
 
       - name: Build geosite.dat file
         run: |
-          cd community/data|| exit 1
-          mkdir -p ../data_pure
-          cp geolocation-\!cn category-ads-all steam apple-pki apple-tvplus apple-update beats icloud itunes apple-dev apple-music apple swift apple-podcasts ../data_pure/
+          #cd community/data|| exit 1
+          #mkdir -p ../data_pure
+          #cp geolocation-\!cn category-ads-all steam apple-pki apple-tvplus apple-update beats icloud itunes apple-dev apple-music apple swift apple-podcasts ../data_pure/
+          #cp geolocation-\!cn category-ads-all steam  beats icloud itunes apple swift apple-*  ../data_pure/
           #cp geolocation-\!cn category-ads-all steam ../data_pure/
-          cd ../../custom|| exit 1
-          go run ./ --datapath=../community/data_pure  
+          #go run ./ --datapath=../community/data --exportlists=geolocation-\!cn,category-ads-all,apple,steam
+          #cd ../../custom|| exit 1
+          cd custom|| exit 1
+          go run ./ --datapath=../community/data --exportlists=geolocation-\!cn,category-ads-all,apple,steam
 
       - name: Move and zip files and generate sha256 hash
         run: |
