@@ -178,7 +178,7 @@ jobs:
           #go run ./ --datapath=../community/data --exportlists=geolocation-\!cn,category-ads-all,apple,steam
           #cd ../../custom|| exit 1
           cd custom|| exit 1
-          go run ./ --datapath=../community/data --exportlists=geolocation-\!cn,category-ads-all,apple,steam
+          go run ./ --datapath=../community/data 
 
       - name: Move and zip files and generate sha256 hash
         run: |
