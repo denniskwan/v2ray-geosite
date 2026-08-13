@@ -170,12 +170,13 @@ jobs:
 
       - name: Build geosite.dat file
         run: |
-          cd community/data|| exit 1
+          #cd community/data|| exit 1
           #mkdir -p ../data_pure
           #cp geolocation-cn category-ads-all steam private ../data_pure/
           #cd ../../custom|| exit 1
           #go run ./ --datapath=../community/data_pure 
           cd custom|| exit 1
+          go run ./ --datapath=../community/data 
 
       - name: Move and zip files and generate sha256 hash
         run: |
