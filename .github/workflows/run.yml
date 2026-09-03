@@ -66,8 +66,10 @@ jobs:
 
       - name: Get geoip.dat relative files
         run: |
-          wget https://github.com/Loyalsoldier/geoip/raw/release/geoip.dat
-          wget https://github.com/Loyalsoldier/geoip/raw/release/geoip.dat.sha256sum
+          #wget https://github.com/Loyalsoldier/geoip/raw/release/geoip.dat
+          #wget https://github.com/Loyalsoldier/geoip/raw/release/geoip.dat.sha256sum
+          wget https://github.com/Loyalsoldier/geoip/raw/releas/geoip-only-cn-private.dat
+          wget https://github.com/Loyalsoldier/geoip/raw/release/geoip-only-cn-private.dat.sha256sum
 
       - name: Generate GFWList domains
         run: |
@@ -184,8 +186,8 @@ jobs:
 
       - name: Move and zip files and generate sha256 hash
         run: |
-          install -Dp ./geoip.dat ./publish/geoip.dat
-          install -Dp ./geoip.dat.sha256sum ./publish/geoip.dat.sha256sum
+          install -Dp ./geoip-only-cn-private.dat ./publish/geoip.dat
+          install -Dp ./geoip-only-cn-private.dat ./publish/geoip.dat.sha256sum
           install -Dp ./custom/publish/geosite.dat ./publish/geosite.dat
           install -p {proxy,direct,reject}-tld-list.txt ./publish/
           install -p {proxy,direct,reject}-list.txt ./publish/
